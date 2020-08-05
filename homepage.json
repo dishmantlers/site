@@ -35,7 +35,7 @@
 	"RSN004": "Moving and need to take down the dish to receive security deposit ",
 	"RSN005": "Canceled service with provider",
 	"RSN006": "Property repairs / improvements require removal",
-	"section_reasons": {
+	"section-reasons": {
 		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
 		"bullet": [
 			{
