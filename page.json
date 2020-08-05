@@ -70,5 +70,13 @@
 		"bullet-point": [
 			"\"Selling or buying a home and want to get rid of unsightly equipment "
 		]
-	}
+	},
+	"bullet": [
+		{
+			"bullet-point": "\"Selling or buying a home and want to get rid of unsightly equipment "
+		},
+		{
+			"bullet-point": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		}
+	]
 }
