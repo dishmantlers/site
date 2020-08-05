@@ -39,5 +39,13 @@
 	"FTR002": "Telephone : 1-800-555-1212 ",
 	"FTR003": "Email: info@dishmantlers.com",
 	"FTR005": "STANDARD SATELLITE DISHES · LARGE SATELLITE DISHES  · AREAS WE SERVICE · FAQ · RESPONSIBILITY · PARTNER WITH US · PRESS · CONTACT US",
-	"FTR006": "\n       \n        Copyright © 2020,Dishmantlers .All rights reserved"
+	"FTR006": "\n       \n        Copyright © 2020,Dishmantlers .All rights reserved",
+	"SECTION-REASONS": {
+		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
+		"bullet-point": [
+			"\"Selling or buying a home and want to get rid of unsightly equipmentz ",
+			"\"Moving and need to take down the dish to receive security deposit ",
+			"Property repairs / improvements require removal"
+		]
+	}
 }
