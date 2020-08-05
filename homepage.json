@@ -35,6 +35,7 @@
 	"RSN004": "Moving and need to take down the dish to receive security deposit ",
 	"RSN005": "Canceled service with provider",
 	"RSN006": "Property repairs / improvements require removal",
+	
 	"section-reasons": {
 		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
 		"bullet": [
@@ -53,7 +54,7 @@
 		]
 	},
 
-		"section-about": {
+	"section-about": {
 		"caption_1_heading": "All Brandsz",
 		"caption_1_paragraph": "zIf you have a  DIRECTV, DISH, HUGHESNET and AT&T or other brand,we will remove it. Customers have discovered they are responsible for their own equipment",
 		"caption_2_heading": "zRemove Unwanted Dishes",
