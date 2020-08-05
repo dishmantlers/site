@@ -26,5 +26,26 @@
 			"Canceled service with provider",
 			"Property repairs / improvements require removal"
 		]
-	}
+	},
+	"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
+	"bullet-point": [
+		"\"Selling or buying a home and want to get rid of unsightly equipment ",
+		"\"Moving and need to take down the dish to receive security deposit ",
+		"Canceled service with provider",
+		"Property repairs / improvements require removal"
+	],
+	"SEC": [
+		{
+			"firstName": "Lea",
+			"lastName": "Verou"
+		},
+		{
+			"firstName": "adsfadsf",
+			"lastName": "asdfadsf"
+		},
+		{
+			"firstName": "asdfadsf",
+			"lastName": "asdfdsaf"
+		}
+	]
 }
