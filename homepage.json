@@ -35,11 +35,6 @@
 	"RSN004": "Moving and need to take down the dish to receive security deposit ",
 	"RSN005": "Canceled service with provider",
 	"RSN006": "Property repairs / improvements require removal",
-	"FTR001": "Dishmantlers",
-	"FTR002": "Telephone : 1-800-555-1212 ",
-	"FTR003": "Email: info@dishmantlers.com",
-	"FTR005": "STANDARD SATELLITE DISHES · LARGE SATELLITE DISHES  · AREAS WE SERVICE · FAQ · RESPONSIBILITY · PARTNER WITH US · PRESS · CONTACT US",
-	"FTR006": "\n       \n        Copyright © 2020,Dishmantlers .All rights reserved",
 	"section_reasons": {
 		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
 		"bullet": [
@@ -57,6 +52,7 @@
 			}
 		]
 	},
+	
 	"section-about": {
 		"caption-1": {
 			"caption_1_heading": "All Brands",
@@ -87,30 +83,7 @@
 		"caption_4_heading": "Remove Wiring",
 		"caption_4_paragraph": "We will remove all wiring to the point of entry into home"
 	},
-	"caption_1_heading": "All Brands",
-	"caption_1_paragraph": "If you have a  DIRECTV, DISH, HUGHESNET and AT&T or other brand,we will remove it. Customers have discovered they are responsible for their own equipment",
-	"caption_2_heading": "Remove Unwanted Dishes",
-	"caption_2_paragraph": "Clean up your property by removing old and unneeded dishes",
-	"caption_3_heading": "Remove Unwanted Dishes",
-	"caption_3_paragraph": "Clean up your property by removing old and unneeded dishes",
-	"caption_4_heading": "Remove Wiring",
-	"caption_4_paragraph": "We will remove all wiring to the point of entry into home",
-	"caption-1": {
-		"caption_1_heading": "All Brands",
-		"caption_1_paragraph": "If you have a  DIRECTV, DISH, HUGHESNET and AT&T or other brand,we will remove it. Customers have discovered they are responsible for their own equipment"
-	},
-	"caption-2": {
-		"caption_2_heading": "Remove Unwanted Dishes",
-		"caption_2_paragraph": "Clean up your property by removing old and unneeded dishes"
-	},
-	"caption-3": {
-		"caption_3_heading": "Remove Unwanted Dishes",
-		"caption_3_paragraph": "Clean up your property by removing old and unneeded dishes"
-	},
-	"caption-4": {
-		"caption_4_heading": "Remove Wiring",
-		"caption_4_paragraph": "We will remove all wiring to the point of entry into home"
-	},
+
 	"section-footer": {
 		"FTR001": "Dishmantlerz",
 		"FTR002": "Telephone : 1-800-555-1212 ",
