@@ -35,7 +35,6 @@
 	"RSN004": "Moving and need to take down the dish to receive security deposit ",
 	"RSN005": "Canceled service with provider",
 	"RSN006": "Property repairs / improvements require removal",
-	
 	"section-reasons": {
 		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
 		"bullet": [
@@ -53,7 +52,6 @@
 			}
 		]
 	},
-
 	"section-about": {
 		"caption_1_heading": "All Brandsz",
 		"caption_1_paragraph": "zIf you have a  DIRECTV, DISH, HUGHESNET and AT&T or other brand,we will remove it. Customers have discovered they are responsible for their own equipment",
@@ -63,12 +61,27 @@
 		"caption_3_paragraph": "zClean up your property by removing old and unneeded dishes",
 		"caption_4_heading": "zRemove Wiring",
 		"caption_4_paragraph": "bWe will remove all wiring to the point of entry into home",
-		"AB002": "THE SATELLITE EXPRESS STORYd",
-		"AB004": "Remove Dish was formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service! Service is available thoughout New Jersey.zz",
-		"AB003": "Why We Do Thisz",
-		"AB005": "was formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased.z"
+		"AB002": "THE SATssssSS STORYd",
+		"AB004": "aaaish was formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service! Service is available thoughout New Jersey.zz",
+		"AB003": "Why ddz",
+		"AB005": "was formed with the need to have unwanted satellite dishes removed from your property. As a two taaime home buyer, I had the task of removing a Satellite dish off of both homes I purchased.z",
+		"caption-1": {
+			"caption_1_heading": "All Brands",
+			"caption_1_paragraph": "If you have a  DIRECTV, DISH, HUGHESNET and AT&T or other brand,we will remove it. Customers have discovered they are responsible for their own equipment"
+		},
+		"caption-2": {
+			"caption_2_heading": "Remove Unwanted Dishes",
+			"caption_2_paragraph": "Clean up your property by removing old and unneeded dishes"
+		},
+		"caption-3": {
+			"caption_3_heading": "Remove Unwanted Dishes",
+			"caption_3_paragraph": "Clean up your property by removing old and unneeded dishes"
+		},
+		"caption-4": {
+			"caption_4_heading": "Remove Wiring",
+			"caption_4_paragraph": "We will remove all wiring to the point of entry into home"
+		}
 	},
-
 	"section-footer": {
 		"FTR001": "Dishmantlerz",
 		"FTR002": "Telephone : 1-800-555-1212 ",
