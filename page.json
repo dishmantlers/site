@@ -41,7 +41,7 @@
 	"FTR006": "\n       \n        Copyright © 2020,Dishmantlers .All rights reserved",
 	"pet": [
 		{
-			"name": "Adamz Catlacaaaezzzzzzzz",
+			"name": "a Catlacaaaezzzzzzzz",
 			"birthday": "2014-06-01"
 		}
 	],
@@ -64,7 +64,7 @@
 	"person": [
 		{
 			"firstName": "Lea",
-			"lastName": "a"
+			"lastName": "bb"
 		}
 	],
 	"rason": {
@@ -75,6 +75,15 @@
 			"Canceled service with provider",
 			"Property repairs / improvements require removal",
 			"asdf new"
+		]
+	},
+	"Reasons": {
+		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
+		"bullet-point": [
+			"\"Selling or buying a home and want to get rid of unsightly equipment ",
+			"\"Moving and need to take down the dish to receive security deposit ",
+			"Canceled service with provider",
+			"Property repairs / improvements require removal"
 		]
 	}
 }
