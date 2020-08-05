@@ -1,3 +1,21 @@
 {
-	
+	"Reasons": {
+		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
+		"bullet-point": [
+			"\"Selling or buying a home and want to get rid of unsightly equipment ",
+			"\"Moving and need to take down the dish to receive security deposit ",
+			"Canceled service with provider",
+			"Property repairs / improvements require removal"
+		]
+	},
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
+		}
+	],
+	"person": {
+		"firstName": "Lea",
+		"lastName": "Verou"
+	}
 }
