@@ -15,16 +15,16 @@
 	"PR004": "Starting at $50.00",
 	"PR005": " FIRST STORY",
 	"PR006": " If your dish is on a first story roof or is mounted to the side of the house our removal cost starts at",
-	"PR007": "Starting at $150.00",
+	"PR007": "Starting at $160.00",
 	"PR008": " If you have a two story home (dishes mounted approximately 20' - 25' from the ground) our starting price is.",
-	"PR009": "Starting at $180.00",
+	"PR009": "Starting at $200.00",
 	"PR010": " THIRD STORY",
 	"PR011": " The 40'+ ladders required for this work require two people to operate and we only have one crew in each metro area available with this equipment.",
-	"PR012": "Starting at $275.00",
+	"PR012": "Starting at $285.00",
 	"PR013": "NOT SURE HOW HIGH THE DISH IS?",
 	"PR014": "Contact us with the form below or give us a call at 1-800-121-1212 and a member of our sales staff will help you with a custom quote.",
 	"PR015": "WHAT ABOUT THE COAX?",
-	"PR016": "With all removals we will remove the coax cables that run from the back of the dish to wherever they end. If they enter a junction box we will only remove the coax from the junction panel or splitter to the dish. Removal of coax cables from junction panel to external outlets, with or without dish, will be an additional cost.",
+	"PR016": "With all dish removals, we will remove the coax cables that run from the back of the dish to wherever they end. If they enter a junction panel we will only remove the coax from the junction panel or splitter to the dish. Removal of coax cables from junction panel to external outlets, with or without a dish, will be an additional cost.",
 	"PR017": "WHAT ABOUT THE MOUNTING BRACKET?",
 	"PR018": " Brackets are removed from dishes that are mounted to the side of the home or in a fascia board. Dishes mounted to the roof are removed while leaving the brackets in place for weatherproofing. If your landlord or HOA requires the brackets removed from the shingles we can do this for an additional cost of $40 but cannot warranty the roof patch. All brackets that we remove are patched with a clear silicone caulk.",
 	"PR019": "I HAVE MORE THAN ONE DISH!",
@@ -42,9 +42,6 @@
 				"bullet-point": "Selling or buying a home and want to get rid of unsightly equipment"
 			},
 			{
-				"bullet-point": "Selling or buying a home and want to get rid of unsightly equipment"
-			},
-			{
 				"bullet-point": "Canceled service with provider"
 			},
 			{
@@ -53,10 +50,10 @@
 		]
 	},
 	"section-about": {
-		"AB002": "THE SATssssSS STORYd",
-		"AB004": "aaaish was formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service! Service is available thoughout New Jersey.zz",
-		"AB003": "Why ddz",
-		"AB005": "was formed with the need to have unwanted satellite dishes removed from your property. As a two taaime home buyer, I had the task of removing a Satellite dish off of both homes I purchased.z",
+		"AB002": "THE ",
+		"AB004": "Dishmantlers was formed with the need to have unwanted satellite dishes removed from residential and commercial properties and recycled in a safe manner.  I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service! ",
+		"AB003": "Why Dishmantlers",
+		"AB005": "Once satellite dishes are mounted on the customers property, it then becomes the customers responsibility to remove the dish.",
 		"caption-1": {
 			"caption_1_heading": "All BrandsC",
 			"caption_1_paragraph": "CIf you have a  DIRECTV, DISH, HUGHESNET and AT&T or other brand,we will remove it. Customers have discovered they are responsible for their own equipment"
@@ -83,9 +80,9 @@
 		"caption_4_paragraph": "We will remove all wiring to the point of entry into home"
 	},
 	"section-footer": {
-		"FTR001": "Dishmantlerz",
+		"FTR001": "Dishmantlers",
 		"FTR002": "Telephone : 1-800-555-1212 ",
-		"FTR003": "Email: info@asdlfads.com ",
+		"FTR003": "Email: info@dishmantlers.com",
 		"FTR005": "STANDARD SATELLITE DISHES · LARGE SATELLITE DISHES · SMALL TV ANTENNAS · TALL ANTENNA TOWERS\n            SCHEDULING · AREAS WE SERVICE · FAQ · RESPONSIBILITY · PARTNER WITH US · PRESS · CONTACT US",
 		"FTR006": "\n       \n        Copyright © 2020,Dishmantlers .All rights reserved"
 	},
