@@ -39,20 +39,20 @@
 		"Reasons-Title": "TOP REASONS TO REMOVE SATELLITE DISHES",
 		"bullet": [
 			{
-				"bullet-point": "Selling or buying a home and want to get rid of unsightly equipment"
+				"bullet-point": "-- Selling or buying a home and want to get rid of unsightly equipment --"
 			},
 			{
-				"bullet-point": "Canceled service with provider"
+				"bullet-point": "-- Canceled service with provider --"
 			},
 			{
-				"bullet-point": "Property repairs / improvements require removal"
+				"bullet-point": "-- Property repairs / improvements require removal --"
 			}
 		]
 	},
 	"section-about": {
-		"AB002": "THE ",
+		"AB002": "Why We Do This.",
 		"AB004": "Dishmantlers was formed with the need to have unwanted satellite dishes removed from residential and commercial properties and recycled in a safe manner.  ",
-		"AB003": "Why Dishmantlers",
+		"AB003": "Why Dishmantlers.",
 		"AB005": "We Once satellite dishes are mounted on the customers property, it then becomes the customers responsibility to remove the dish.",
 		"caption-1": {
 			"caption_1_heading": "All BrandsC",
@@ -88,6 +88,6 @@
 	},
 	"header-telphone-line-1": " Call Now",
 	"header-telphone-line-2": " 222-512-512",
-	"cont001": "Contact us today",
-	"cont002": "if you have any questions or would like to make an appointment. "
+	"cont001": "Contact Us Today",
+	"cont002": "If you have any questions or would like to make an appointment, contact us today. ."
 }
