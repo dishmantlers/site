@@ -27,7 +27,7 @@
 	"PR016": "With all dish removals, we will remove the coax cables that run from the back of the dish to wherever they end. If they enter a junction panel we will only remove the coax from the junction panel or splitter to the dish. Removal of coax cables from junction panel to external outlets, with or without a dish, will be an additional cost.",
 	"PR017": "WHAT ABOUT THE MOUNTING BRACKET?",
 	"PR018": " Brackets are removed from dishes that are mounted to the side of the home or in a fascia board. Dishes mounted to the roof are removed while leaving the brackets in place for weatherproofing. If your landlord or HOA requires the brackets removed from the shingles we can do this for an additional cost of $40 but cannot warranty the roof patch. All brackets that we remove are patched with a clear silicone caulk.",
-	"PR019": "I HAVE MORE THAN ONE DISH!",
+	"PR019": "WHAT IF I HAVE MORE THAN ONE SATELLITE DISH?",
 	"PR020": "If you have more than one dish or have additional coax/brackets that you want removed please contact us for a custom quote!",
 	"001": " a",
 	"RSN001": "TOP REASONS TO REMOVE SATELLITE DISHES",
@@ -85,7 +85,7 @@
 		"FTR001": "Dishmantlers",
 		"FTR002": "Telephone : 279-204-4605",
 		"FTR003": "Email: info@dishmantlers.com",
-		"FTR005": "STANDARD SATELLITE DISHES · LARGE SATELLITE DISHES · SMALL TV ANTENNAS · AREAS WE SERVICE · FAQ · RESPONSIBILITY · PARTNER WITH US · PRESS · CONTACT US",
+		"FTR005": "",
 		"FTR006": "\n       \n        Copyright © 2020,Dishmantlers .All rights reserved"
 	},
 	"header-telphone-line-1": " Call Now",
