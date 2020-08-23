@@ -1,8 +1,8 @@
 {
 	"header-telphone-line-1": " Call Now",
 	"header-telphone-line-2": "222-512-512z",
-	"SP001": " SADISPOSAL ",
-	"SP002": " Dishmas",
+	"SP001": "SADISPOSALz",
+	"SP002": "Dishmasz",
 	"section-about": {
 		"caption_1_heading": [
 			"All Brands",
@@ -36,13 +36,13 @@
 			"We will remove all wiring to the point of entry into home",
 			"We will remove all wiring to the point of entry into home"
 		],
-		"AB002": " THE SATELLITE EXPRESS STORY",
-		"AB004": "Remove Dish  was formed with the need to have unwanted satellite dishes removed from your property.  As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service!  Service is available thoughout New Jersey.",
-		"AB003": " Why We Do This",
-		"AB005": " was formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased."
+		"AB002": "zzTHE SATELLITE EXPRESS STORY",
+		"AB004": "zRemove Dish was formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service! Service is available thoughout New Jersey.",
+		"AB003": "zWhy We Do This",
+		"AB005": "zwas formed with the need to have unwanted satellite dishes removed from your property. As a two time home buyer, I had the task of removing a Satellite dish off of both homes I purchased."
 	},
 	"PR001": [
-		"Dish Removal",
+		"zDish Removal",
 		" GROUND MOUNTED",
 		" SECOND STORY"
 	],
