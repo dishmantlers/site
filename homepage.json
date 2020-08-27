@@ -1,6 +1,6 @@
 {
 	"SP001": "SATELLITE DISH & COAX REMOVAL & DISPOSAL SERVICES",
-	"SP002": "Dishmantlers removes unwanted satellite dishes with 100% satisfaction guarantee. We are committed to improving the appearance and safety of your home or business by removing all shapes, sizes, and ages of satellite dishes.",
+	"SP002": "Dishmantlers removes unwanted satellite dishes and is committed to improving the appearance and safety of your home or business by removing all shapes, sizes, and ages of satellite dishes.",
 	"AB002": "DISHMANTLERS STORY",
 	"AB004": "Dishmantlers was formed with the need to have unwanted satellite dishes removed from residential and commercial properties. As a former premise technician for AT&T/DirecTv, being asked to remove I had the task of removing a Satellite dish off of both homes I purchased. Remove Dish was created with the thought that some home owners can't or are unable to remove their satellite dish. If so, Remove Dish can offer you this service! Service is available thoughout New Jersey.",
 	"AB003": " Why We Do This",
@@ -22,7 +22,9 @@
 	"PR011": "Dishes mounted above 25’ may require a bigger ladder and two people to remove the equipment. To help ensure everyone’s safety and quality service, prices start at",
 	"PR012": "Starting at $285.00",
 	"PR013": "UNSURE ABOUT THE HEIGHT OF THE SATELLITE DISH?",
-	"PR014": "Contact us by filling out the form below or give us a call at 279-204-4605. A customer service specialist will return your inquiry or call within 24 hours and help you with a custom quote.",
+	"PR014": {
+		"header-telphone-line-2": "Contact us by filling out the form below or give us a call at 279-204-4605. A customer service specialist will return your inquiry or call within 24 hours and help you with a custom quote."
+	},
 	"PR015": "WHAT ABOUT THE COAX?",
 	"PR016": "With all dish removals, we will remove the coax cables that run from the back of the dish to wherever they end. If they enter a junction panel we will only remove the coax from the junction panel or splitter to the dish. Removal of coax cables from junction panel to external outlets, with or without a dish, will be an additional cost.",
 	"PR017": "WHAT ABOUT THE MOUNTING BRACKET?",
